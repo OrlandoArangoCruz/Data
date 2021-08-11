@@ -1,0 +1,38 @@
+Identifier:MEX-INEGI-40.301.02-VII-CAGF-2007
+
+Títle: Censo Ejidal 2007
+
+Description: INEGI. Censo Ejidal 2007. SNIEG. Información de Interés Nacional.
+
+Presenta información de Interés Nacional que constituye una fuente primaria de datos para generar estadística básica y actualizada de manera decenal sobre un conjunto de variables que reflejan aspectos estructurales de los ejidos y comunidades agrarias existentes en el país al momento del levantamiento censal. El IX Censo Ejidal, 2007  tiene como objetivo obtener, procesar y difundir información básica sobre la estructura de los ejidos y las comunidades agrarias. La información estadística que se presenta, constituye una de las principales fuentes de consulta para la realización de investigaciones sobre la situación prevaleciente en los ejidos y comunidades agrarias del país. Se proporcionan datos de las principales características de los ejidos y comunidades agrarias, lo que brinda una panorámica general sobre estos aspectos a nivel estatal y municipal.
+La información ofrecida por los Censos Agropecuarios constituye como insumo para distintos proyectos públicos, privados y sociales aportan elementos para las políticas públicas y programas sociales y para el desarrollo rural sustentable lo que contribuye a la toma de decisiones.
+Este censo presenta información que corresponden a los temas sobre número y superficie de ejidos y comunidades agrarias, ejidatarios y comuneros, para la superficie su distribución interna de la tierra, la superficie parcelada, la de uso común, se indaga sobre la disponibilidad de agua para riego, la actividad principal, uso actual del suelo, principal especie animal y forestal, el empleo de tecnologías, equipo e instalaciones, el destino de la producción, crédito y seguro, existencias de tractores, actividad no agropecuaria ni forestal, organización agraria, y disponibilidad de servicios. Presenta las principales características generales de los ejidos de sus integrantes la permanencia de los jóvenes, tipo de construcciones, maquinaria vehículos, y tractores con que cuentan las propiedades sociales del país. Presentan la situación interna de los ejidos y comunidades agrarias y nos muestran las principales características sociodemográficas de los representantes de las propiedades sociales. La información estadística que se presenta, constituye una de las principales fuentes de consulta para la realización de investigaciones sobre la situación prevaleciente en las propiedades sociales del país.
+Las cifras en los conjuntos de datos tienen el status de definitivas.
+
+Modified: 2009-03
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+Keyword: Superficie total, uso común, desmontada, uso agrícola, Ejidos, comunidades agrarias, pastos no cultivados, agostadero, enmontada, parcelada, riego, distribución, interna, tierra, vegetación, tipo, actividad, ganadero, forestal, explotación, entidad, federativa, municipio, permanencia, mayoría, jóvenes, destino, sexo, avencindados, posesionarios , disposición,  parcela,  individual, comuneros, colectiva, ejidatarios, vehículos, agropecuario, forestal, propiedad, cantidad, funcionamiento, tractores, propiedad, años, construcciones, bodegas, naves, capacidad, actividades, turísticas, mejoras, realizadas, colectiva, maquinaria, presidente, comisariado, hablante, lengua,  indígena, problemática, interna, compraventa, participantes, vendida, medidos, institución, empresa, optado, dominio, pleno, temática, capacitación, recibida, últimos, cinco, sociedades, mercantiles, finalidades, producción, organización, asociación, específico
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporal: 2007 
+
+Spatial: Estados Unidos Mexicanos 
+
+AccrualPeriodicity: Decenal
+
+Distribution: https://www.inegi.org.mx/programas/cae/2007/
+  
+
+
+
+
+
+
+
