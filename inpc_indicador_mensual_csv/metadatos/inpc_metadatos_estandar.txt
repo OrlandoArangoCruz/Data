@@ -1,0 +1,29 @@
+﻿Definición: Índices Mensuales del Índice Nacional de Precios al Consumidor y sus componentes. 
+
+Forma de cálculo: Algoritmo 
+
+Unidad de medida: Índice. 
+
+Cobertura geográfica: Nacional 
+
+Periodicidad: Mensual 
+
+Año base: Segunda quincena de julio de 2010=100. 
+
+Periodo de referencia: Quincena 
+
+Oportunidad: Alrededor de 9 días después de terminado el periodo de referencia. 
+
+Cobertura temporal: A partir de 1969. 
+
+Estándares o recomendaciones nacionales y/o internacionales:
+
+Manual del índice de precios al consumidor: Teoría y práctica.Organización Internacional del Trabajo, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos, Oficina Estadística de las Comunidades Europeas, Naciones Unidas, Banco Mundial.
+
+Ruta: http://www.imf.org/external/pubs/ft/cpi/manual/2004/esl/cpi_sp.pdf 
+
+Política(s) pública(s) en donde se utiliza el Indicador Clave: Criterios Generales de Política Económica; Políticas de Precios, Salarios y Monetaria. 
+
+Medios de difusión: Banco de Información Económica. Instituto Nacional de Estadística y Geografía. Ruta: http://www.inegi.org.mx/sistemas/bie/ , Página de precios en el sitio web del INEGI. Instituto Nacional de Estadística y Geografía. Ruta:http://www.inegi.org.mx/est/contenidos/proyectos/inp/Default.aspx 
+
+Nota: A partir de la primera quincena de agosto de 2018 se utilizan ponderadores obtenidos de la ENGASTO 2012-2013, previo a esta quincena y desde la primera quincena de abril de 2013 se utilizaron ponderadores obtenidos de la ENIGH 2010. Esta actualización puede provocar que durante un año la tasa de variación anual del índice general quede fuera del rango respecto a la variación de sus componentes. La incidencia se refiere a la contribución en puntos porcentuales de cada componente del INPC a la inflación general. Esta última se calcula utilizando los ponderadores de cada subíndice, así como sus precios relativos y variaciones.  En ciertos casos la suma de los componentes puede tener alguna discrepancia por efectos de redondeo. El cálculo de la incidencia del mes de agosto del 2018 se ve afectada por el comentario de la nota anterior (1).
